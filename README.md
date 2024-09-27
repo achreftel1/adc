@@ -1,1 +1,1 @@
-# adc
+# keras VGG16 model
